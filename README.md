@@ -6,3 +6,5 @@ Create a `data\` folder and place the following:
 2. test.csv
 3. txs_edgelist.csv
 4. sample_submission.csv
+
+Run the notebook in the project root that contains `data\`
